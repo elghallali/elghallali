@@ -49,6 +49,10 @@
   <a href = "https://www.udemy.com/"><img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
   <a href = "https://www.edx.org/"><img src = "https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white"></a>
   <a href = "https://overapi.com/"><img src = "https://img.shields.io/badge/Over%20API-14BF96?style=for-the-badge&logo=Over%20API&logoColor=white"></a>
+  <a href = "https://www.docker.com/"><img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href = "https://kubernetes.io/"><img src = "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+  <a href = "https://www.rancher.com/"><img src = "https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"></a>
+  <a href = "https://stackoverflow.com/"><img src = "https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"></a>
   <br>
   <br>
 </p>
