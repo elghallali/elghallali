@@ -48,6 +48,7 @@
   <a href = "https://www.khanacademy.org/"><img src = "https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"></a>
   <a href = "https://www.udemy.com/"><img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
   <a href = "https://www.edx.org/"><img src = "https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white"></a>
+  <a href = "https://overapi.com/"><img src = "https://overapi.com/static/images/overapi-logo.png"></a>
   <br>
   <br>
 </p>
