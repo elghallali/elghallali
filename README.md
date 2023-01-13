@@ -1,10 +1,11 @@
+<!--
 <div>
   <a href="https://github.com/elghallali/">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=elghallali&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
       <a href="#"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elghallali&layout=compact&theme=react"></a>
 
 </div>  
-
+-->
 
 
 
