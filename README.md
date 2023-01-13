@@ -1,11 +1,11 @@
-<!--
-<div>
-  <a href="https://github.com/elghallali/">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=elghallali&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-      <a href="#"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elghallali&layout=compact&theme=react"></a>
 
-</div>  
--->
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blackgirlbytes&theme=material-palenight)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackgirlbytes&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackgirlbytes&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
