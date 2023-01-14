@@ -7,7 +7,7 @@
 
 <!-- Banner -->
 
-<img src="https://github.com/msandfor/msandfor/blob/main/assets/gh-header-image.gif" alt="banner that says Yassine EL GHALLALI - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Yassine">
+
 
 <!-- Social Links -->
 
@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/yassine-el-ghallali-22ab2386"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://dev.to/elghallali"><img src="https://img.shields.io/badge/-Dev.to-B30059?style=flat-square&logo=dev.to&logoColor=white"/></a>
 <a href="https://t.me/yassineELGHALLALI"><img src="https://img.shields.io/badge/-Telegram-B30059?style=flat-square&logo=telegram&logoColor=white"/></a>
-<a href="mailto:y.elghallali@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:y.elghallali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-B30059?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ### :fire: My Stats :
