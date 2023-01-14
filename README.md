@@ -21,14 +21,6 @@
 <a href="mailto:y.elghallali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-B30059?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elghallali&theme=material-palenight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elghallali&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elghallali&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### 👋🏾 👩🏾‍💻 About Me :
 I am a 
 
@@ -53,6 +45,14 @@ I am a
 </div>
 
 ---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elghallali&theme=material-palenight)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elghallali&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elghallali&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="left">
   
