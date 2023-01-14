@@ -1,3 +1,25 @@
+### Hi, I'm Yassine 👋 
+
+<!-- Followers Count and Views Count -->
+
+![](https://img.shields.io/github/followers/elghallali?label=Followers&style=flat-square)
+![Profile views](https://gpvc.arturio.dev/elghallali)
+
+<!-- Banner -->
+
+<img src="https://github.com/msandfor/msandfor/blob/main/assets/gh-header-image.gif" alt="banner that says Yassine EL GHALLALI - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Yassine">
+
+<!-- Social Links -->
+
+<p align="center">
+  <a href="https://codepen.io/elghallali"><img src="https://img.shields.io/badge/-Codepen.io-brightgreen?style=flat-square&logo=codepen&logoColor=white"/></a>
+<a href="https://twitter.com/yassielghallali"><img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/elghallali/"><img src="https://img.shields.io/badge/-Instagram-d3003f?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yassine-el-ghallali-22ab2386"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://dev.to/elghallali"><img src="https://img.shields.io/badge/-Dev.to-B30059?style=flat-square&logo=dev.to&logoColor=white"/></a>
+<a href="https://t.me/yassineELGHALLALI"><img src="https://img.shields.io/badge/-Telegram-B30059?style=flat-square&logo=telegram&logoColor=white"/></a>
+<a href="mailto:y.elghallali@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elghallali&theme=material-palenight)](https://git.io/streak-stats)
@@ -58,12 +80,5 @@
   <br>
 </p>
 
-<p align="left">
-<a href="mailto:y.elghallali@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
-<a href="https://www.linkedin.com/in/yassine-el-ghallali-22ab2386/" alt="Linkedin" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://t.me/yassineELGHALLALI" alt = "Telegram" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
