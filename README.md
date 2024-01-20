@@ -62,9 +62,12 @@ I am a
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=elghallali&layout=compact&theme=material-palenight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elghallali&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elghallali&layout=donut&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elghallali&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Yassine EL GHALLALI's GitHub stats](https://github-readme-stats.vercel.app/api?username=elghallali&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=material-palenight)
+
+
 
 
 <p align="left">
