@@ -1,4 +1,4 @@
-### Hi, I'm Yassine 👋 
+### Hi, I'm Yassine 👋🏻 
 
 <!-- Followers Count and Views Count -->
 
@@ -21,7 +21,7 @@
 <a href="mailto:y.elghallali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-B30059?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 👋🏾 👩🏾‍💻 About Me :
+### 👋🏻👨🏻‍💻 About Me :
 I am a 
 
 - 🌱  I’m currently 
