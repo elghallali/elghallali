@@ -3,7 +3,7 @@
 <!-- Followers Count and Views Count -->
 
 ![](https://img.shields.io/github/followers/elghallali?label=Followers&style=flat-square)
-![Profile views](https://gpvc.arturio.dev/elghallali)
+
 
 <!-- Banner -->
 
